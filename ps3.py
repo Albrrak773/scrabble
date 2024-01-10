@@ -1,3 +1,6 @@
+# Finished solving problem @ Jan 10 2024
+# est time to solve 1-2 weeks
+
 # 6.0001 Problem Set 3
 #
 # The 6.0001 Word Game
